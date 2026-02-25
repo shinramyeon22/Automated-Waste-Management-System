@@ -1,1 +1,1 @@
-#Automated-Waste-Management-System
+# Automated-Waste-Management-System
