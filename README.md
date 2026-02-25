@@ -1,0 +1,1 @@
+# shinramyeon22-Automated-Waste-Management-System
