@@ -54,10 +54,5 @@ Otherwise → pass to the next handler in the chain.
 4. **Validation**  
    Proper type identification and fallback for unknown types
 
-## 🛠️ Tech Stack
-
-- **Language**: Java (JDK 8+)  
-- **Design Pattern**: Chain of Responsibility  
-- **Build Tool**: None (pure Java – ready to compile/run)
-
-
+## UML DIAGRAM
+![alt text](https://github.com/shinramyeon22/Automated-Waste-Management-System/blob/e3151b041074c3587e9ae618a8481b9e4022c044/_Chain%20of%20Responsibility.png)
