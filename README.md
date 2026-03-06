@@ -55,4 +55,4 @@ Otherwise → pass to the next handler in the chain.
    Proper type identification and fallback for unknown types
 
 ## UML DIAGRAM
-![alt text](https://github.com/shinramyeon22/Automated-Waste-Management-System/blob/e3151b041074c3587e9ae618a8481b9e4022c044/_Chain%20of%20Responsibility.png)
+![alt text](https://github.com/shinramyeon22/Automated-Waste-Management-System/blob/d06a73a2fdd1134b8a60e7271ab120fb7439dac6/_Chain%20of%20Responsibility%20.png)
